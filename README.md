@@ -15,3 +15,5 @@
 ## Install any package
 
     pip3 install <package name>
+
+- Don't forget to star this repo if you like the content.
