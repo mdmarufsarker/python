@@ -12,8 +12,8 @@
 
     deactivate
 
-## Install any package
+## Install packages
 
-    pip3 install <package name>
+    pip3 install -r requirements.txt
 
 - Don't forget to star this repo if you like the content.

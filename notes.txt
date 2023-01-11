@@ -1,0 +1,4 @@
+Completed Chapters
+
+15 Web Scraping
+16 Working with images
